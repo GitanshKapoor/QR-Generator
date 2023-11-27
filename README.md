@@ -1,5 +1,5 @@
 # QR Generator
-Developed a QR Generator Website.
+QR-Generator is a web application meticulously crafted to streamline the creation of QR codes for a myriad of purposes. Whether you're a business owner, event organizer, or an individual seeking to enhance your digital presence, QR-Generator offers a seamless and efficient solution.
 
 You can Visit My Webpage on : https://gitansh.tech/QR-Generator/
 
